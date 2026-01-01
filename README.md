@@ -1,6 +1,6 @@
 # 👋 Hi, I'm N4tzzOfficial
 
-💻 Full-Stack Developer | 🔐 Cybersecurity Enthusiast | 🤖 AI Systems Builder
+💻 Full-Stack Developer | 🔐 Cybersecurity | 🤖 AI & Automation Systems
 
 Building real-world systems with a strong focus on security,
 automation, and practical engineering.
@@ -9,19 +9,19 @@ automation, and practical engineering.
 
 ## 👨‍💻 About Me
 Independent developer from Indonesia with hands-on experience
-building websites, applications, APIs, security systems,
-and experimental low-level software.
+in building secure websites, applications, APIs, and automation systems.
 
-I focus on **building first**, documenting later — most of my work
-comes from real projects, not tutorials.
+My work focuses on **practical implementation** — real projects,
+real systems, and real-world problem solving — not just experiments
+or tutorials.
 
 ---
 
 ## 🚀 Main Project Areas
-- 🌐 Website Development
+- 🌐 Website Development & Website Security
 - 📱 Application Development (Desktop & Mobile)
 - 🔌 APIs & REST API Systems
-- 🔐 Website & Application Security
+- 🔐 Web & Application Security Hardening
 - 🤖 AI Engine & Automation Systems
 - 🛡️ Antivirus & Security Software (Experimental)
 
@@ -40,9 +40,9 @@ comes from real projects, not tutorials.
 
 Used in:
 - Antivirus & security tools
-- Backend systems
+- Backend systems & APIs
 - Automation scripts
-- Web & API development
+- Website & application development
 
 ---
 
@@ -52,7 +52,7 @@ Used in:
 
 Used in:
 - Android / APK development
-- Application logic & backend integration
+- Application logic & system integration
 
 ---
 
@@ -60,7 +60,7 @@ Used in:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-Used in:
+Used for:
 - Website UI
 - Web application interfaces
 
@@ -78,30 +78,51 @@ Used for:
 ---
 
 ## 🧩 Highlighted Systems & Projects
+
 - 🛡️ **Custom Antivirus Project**  
-  Built using C, C++, C#, and Python for scanning, detection,
-  and system-level analysis.
+  Experimental antivirus system built using C, C++, C#, and Python
+  for scanning, detection, and system-level analysis.
 
 - 🤖 **AI Engine (Web-based)**  
-  Publicly available on my website, focused on automation
-  and intelligent system interaction.
+  AI and automation engine publicly available on my website,
+  focused on intelligent system interaction and workflow automation.
 
 - 🌐 **Website & API Systems**  
-  Multiple web applications and REST APIs built with Node.js,
+  Multiple production websites and REST APIs built using Node.js,
   PHP, JavaScript, and Python.
 
-- 💬 **WhatsApp Bot System**  
-  Built using Node.js for automation and messaging workflows.
+- 🏢 **Company Website & Security Implementation**  
+  Developed and secured a company website:  
+  👉 https://glosindo.net.id  
+  Including security hardening and protection mechanisms.
+
+- 💬 **WhatsApp & Telegram Bot Systems**  
+  Automation bots built for WhatsApp and Telegram using:
+  - Node.js
+  - C#
+  - Python  
+
+  WhatsApp bot implementation uses a **custom Baileys-based library**
+  with a focus on:
+  - Security
+  - Stability
+  - Undetected operation
 
 ---
 
 ## 🧑‍🤝‍🧑 Communities
 - **N4tzzSquadCommunity**  
-  Ethical hacking, programming, and learning-focused community.
+  Ethical hacking, programming, and learning-focused community.  
   Output > theory.
 
 - **N4tzzSecurityCollective**  
   Security research and defensive system exploration.
+
+---
+
+## 📢 Official Channels
+- 📣 WhatsApp Channel:  
+  https://whatsapp.com/channel/0029VbAVYIx5PO0z9LqImz3U
 
 ---
 
@@ -113,4 +134,6 @@ No responsibility is taken for misuse.
 ---
 
 ## 📬 Contact
-- 📧 Email: n4tzzofficial@proton.me
+- 📞 Telegram: https://t.me/N4tzzOfficial
+- 📧 Email: n4tzzofficial@gmail.com
+- 🌐 Website: https://n4tzzofficial.ct.ws

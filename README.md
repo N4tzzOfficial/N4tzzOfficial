@@ -7,11 +7,34 @@ Building real-world systems with a strong focus on **security, automation, and p
 ---
 
 ## 👨‍💻 About Me
-Independent developer from Indonesia with hands-on experience in building
-secure websites, applications, APIs, automation systems, and low-level software.
 
-My work prioritizes **real implementation** — production systems,
-security hardening, and applied engineering — not tutorial-based projects.
+An independent developer from Indonesia with hands-on experience building
+secure websites, applications, APIs, automation systems, and mid-level software.
+
+I also work as a **Grey Hat Security Researcher**, focusing on vulnerability research,
+exploit analysis, and system hardening conducted strictly in
+**controlled, ethical, and non-production environments**.
+
+My work emphasizes **real-world implementation** — production systems,
+security hardening, and applied engineering — rather than tutorial-based
+or purely theoretical projects.
+
+---
+
+## 🔐 Security Research Scope (Grey Hat)
+
+My security research is conducted **only in sandboxed labs, virtual machines,
+or systems I own or have explicit permission to test**.
+
+Research areas include:
+- Ransomware behavior analysis (Android APK & Windows EXE)
+- Malware and adware lifecycle research
+- Exploit simulation and payload behavior analysis
+- Web defacement techniques (attack surface & prevention study)
+- Persistence, evasion, and detection bypass research
+- Reverse engineering and malware dissection
+
+All findings are used for **defensive improvement, detection, and prevention**.
 
 ---
 
@@ -21,7 +44,7 @@ security hardening, and applied engineering — not tutorial-based projects.
 - 🔌 APIs & REST API Systems
 - 🔐 Web & Application Security Hardening
 - 🤖 AI Engine & Automation Systems
-- 🛡️ Antivirus & Security Software (Experimental)
+- 🛡️ Security Software & Defensive Tooling
 
 ---
 
@@ -124,7 +147,12 @@ security hardening, and applied engineering — not tutorial-based projects.
 ---
 
 ## ⚠️ Ethics & Disclaimer
-All projects are for **educational, defensive, and research purposes only**.
+All projects and security research are conducted for
+**educational, defensive, analytical, and research purposes only**.
+
+No tools, techniques, or systems are intended for illegal use.
+I do not support or engage in unauthorized access or attacks
+against third-party systems.
 
 ---
 

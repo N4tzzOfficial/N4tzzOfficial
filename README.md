@@ -1,19 +1,17 @@
-# 👋 Hi, I'm N4tzzOfficial
+# 👋 Hi, I'm ![N4tzzOffc](https://img.shields.io/badge/N4tzzOfficial-darkblue)
 
 💻 Full-Stack Developer | 🔐 Cybersecurity | 🤖 AI & Automation Systems
 
-Building real-world systems with a strong focus on security,
-automation, and practical engineering.
+Building real-world systems with a strong focus on **security, automation, and practical engineering**.
 
 ---
 
 ## 👨‍💻 About Me
-Independent developer from Indonesia with hands-on experience
-in building secure websites, applications, APIs, and automation systems.
+Independent developer from Indonesia with hands-on experience in building
+secure websites, applications, APIs, automation systems, and low-level software.
 
-My work focuses on **practical implementation** — real projects,
-real systems, and real-world problem solving — not just experiments
-or tutorials.
+My work prioritizes **real implementation** — production systems,
+security hardening, and applied engineering — not tutorial-based projects.
 
 ---
 
@@ -27,109 +25,106 @@ or tutorials.
 
 ---
 
-## 🧠 Programming Languages (Used in Real Projects)
+## 🧠 Programming Languages & Technologies
 
-### 🔥 Core & Frequently Used
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=flat&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-
-Used in:
-- Antivirus & security tools
-- Backend systems & APIs
-- Automation scripts
-- Website & application development
+### 🔥 Core / Actively Used
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 
 ---
 
 ### 📱 Application & Platform Development
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-
-Used in:
-- Android / APK development
-- Application logic & system integration
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 
 ---
 
-### 🌐 Web Technologies
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-Used for:
-- Website UI
-- Web application interfaces
+### 🌐 Web & Markup
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=white)
 
 ---
 
-### 🧪 Additional Languages & Multi-Language Experience
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-
-Used for:
-- Experiments
-- Automation
-- Research & learning purposes
+### 🗄️ Databases & Query Languages
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL/SQL-F80000?logo=oracle&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?logo=microsoftsqlserver&logoColor=white)
 
 ---
 
-## 🧩 Highlighted Systems & Projects
+### ⚙️ Scripting & Automation
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white)
+![Perl](https://img.shields.io/badge/Perl-39457E?logo=perl&logoColor=white)
+![AWK](https://img.shields.io/badge/AWK-000000?logo=gnu&logoColor=white)
+![Makefile](https://img.shields.io/badge/Makefile-000000?logo=cmake&logoColor=white)
 
-- 🛡️ **Custom Antivirus Project**  
-  Experimental antivirus system built using C, C++, C#, and Python
-  for scanning, detection, and system-level analysis.
+---
 
-- 🤖 **AI Engine (Web-based)**  
-  AI and automation engine publicly available on my website,
-  focused on intelligent system interaction and workflow automation.
+### 🧪 Systems, Functional & Low-Level
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+![Zig](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=black)
+![Nim](https://img.shields.io/badge/Nim-FFE953?logo=nim&logoColor=black)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?logo=haskell&logoColor=white)
+![OCaml](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?logo=elixir&logoColor=white)
+![Erlang](https://img.shields.io/badge/Erlang-A90533?logo=erlang&logoColor=white)
 
-- 🌐 **Website & API Systems**  
-  Multiple production websites and REST APIs built using Node.js,
-  PHP, JavaScript, and Python.
+---
 
-- 🏢 **Company Website & Security Implementation**  
-  Developed and secured a company website:  
-  👉 https://glosindo.net.id  
-  Including security hardening and protection mechanisms.
+### 📊 Scientific & Data
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=white)
 
-- 💬 **WhatsApp & Telegram Bot Systems**  
-  Automation bots built for WhatsApp and Telegram using:
-  - Node.js
-  - C#
-  - Python  
+---
 
-  WhatsApp bot implementation uses a **custom Baileys-based library**
-  with a focus on:
-  - Security
-  - Stability
-  - Undetected operation
+### 🎮 Game / Special Purpose
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?logo=godotengine&logoColor=white)
+![Haxe](https://img.shields.io/badge/Haxe-EA8220?logo=haxe&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
+![Vyper](https://img.shields.io/badge/Vyper-2980B9?logo=ethereum&logoColor=white)
+![Scratch](https://img.shields.io/badge/Scratch-FFA500?logo=scratch&logoColor=white)
+
+---
+
+### 🧓 Legacy / Enterprise
+![COBOL](https://img.shields.io/badge/COBOL-005CA5?logo=ibm&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-734F96?logo=fortran&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-1798C1?logo=salesforce&logoColor=white)
+![ABAP](https://img.shields.io/badge/ABAP-0FAAFF?logo=sap&logoColor=white)
+
+---
+
+### 🧠 Esoteric
+![Brainfuck](https://img.shields.io/badge/Brainfuck-000000?logo=brainfuck&logoColor=white)
 
 ---
 
 ## 🧑‍🤝‍🧑 Communities
-- **N4tzzSquadCommunity**  
-  Ethical hacking, programming, and learning-focused community.  
-  Output > theory.
-
-- **N4tzzSecurityCollective**  
-  Security research and defensive system exploration.
+- **N4tzzSquadCommunity** — Ethical hacking & programming
+- **N4tzzSecurityCollective** — Security, CDN, DNS & server protection
 
 ---
 
 ## 📢 Official Channels
-- 📣 WhatsApp Channel:  
-  https://whatsapp.com/channel/0029VbAVYIx5PO0z9LqImz3U
+- 📣 WhatsApp Channel: https://whatsapp.com/channel/0029VbAVYIx5PO0z9LqImz3U
 
 ---
 
 ## ⚠️ Ethics & Disclaimer
-All projects are created for educational, defensive,
-and experimental purposes only.
-No responsibility is taken for misuse.
+All projects are for **educational, defensive, and research purposes only**.
 
 ---
 

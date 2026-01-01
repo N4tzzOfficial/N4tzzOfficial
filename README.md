@@ -1,4 +1,5 @@
-# 👋 Hi, I'm ![N4tzzOffc](https://img.shields.io/badge/N4tzzOfficial-darkblue)
+# 👋 Hi, I'm N4tzzOfficial
+![N4tzzOffc](https://img.shields.io/badge/N4tzzOfficial-darkblue)
 
 💻 Full-Stack Developer | 🔐 Cybersecurity | 🤖 AI & Automation Systems
 

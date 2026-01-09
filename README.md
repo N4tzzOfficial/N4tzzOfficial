@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm N4tzzOfficial ![N4tzzOffc](https://img.shields.io/badge/N4tzzOfficial-darkblue)
 
-💻 Full-Stack Developer | 🔐 Cybersecurity | 🤖 AI & Automation Systems
+💻 Reverse engineering | 🔐 Cybersecurity | 🤖 AI & Automation Systems
 
 Building real-world systems with a strong focus on **security, automation, and practical engineering**.
 
@@ -10,7 +10,7 @@ Building real-world systems with a strong focus on **security, automation, and p
 > ## 👨‍💻 About Me
 > An independent developer from Indonesia with hands-on experience building
 > secure websites, applications, APIs, automation systems, and mid-level software.
-> I also work as a **Grey Hat Security And Reverse Engginering**, focusing on vulnerability research,
+> I also work as a **Grey Hat Security And Reverse Engineering**, focusing on vulnerability research,
 > exploit analysis, and system hardening conducted strictly in
 > **controlled, ethical, and non-production environments**.
 > My work emphasizes **real-world implementation** — production systems,

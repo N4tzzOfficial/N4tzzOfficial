@@ -1,6 +1,3 @@
-<h1 align='center'><img alt="Baileys logo" src="https://avatars.githubusercontent.com/u/181945053?v=4" height="75"/></h1>
-
-<div align='center'>👋 Hi, I'm N4tzzOfficial !</div>
 #👋 Hi, I'm N4tzzOfficial ![N4tzzOffc](https://img.shields.io/badge/N4tzzOfficial-darkblue)
 
 💻 Full-Stack Developer | 🔐 Cybersecurity | 🤖 AI & Automation Systems
@@ -9,18 +6,19 @@ Building real-world systems with a strong focus on **security, automation, and p
 
 ---
 
-## 👨‍💻 About Me
+> [!IMPORTANT]
+> ## 👨‍💻 About Me
 
-An independent developer from Indonesia with hands-on experience building
-secure websites, applications, APIs, automation systems, and mid-level software.
+> An independent developer from Indonesia with hands-on experience building
+> secure websites, applications, APIs, automation systems, and mid-level software.
 
-I also work as a **Grey Hat Security Researcher**, focusing on vulnerability research,
-exploit analysis, and system hardening conducted strictly in
-**controlled, ethical, and non-production environments**.
+> I also work as a **Grey Hat Security And Reverse Engginering**, focusing on vulnerability research,
+> exploit analysis, and system hardening conducted strictly in
+> **controlled, ethical, and non-production environments**.
 
-My work emphasizes **real-world implementation** — production systems,
-security hardening, and applied engineering — rather than tutorial-based
-or purely theoretical projects.
+> My work emphasizes **real-world implementation** — production systems,
+> security hardening, and applied engineering — rather than tutorial-based
+> or purely theoretical projects.
 
 ---
 

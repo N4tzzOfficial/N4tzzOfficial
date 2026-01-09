@@ -17,7 +17,7 @@ exploit analysis, and system hardening conducted strictly in
 My work emphasizes **real-world implementation** — production systems,
 security hardening, and applied engineering — rather than tutorial-based
 or purely theoretical projects.
-
+> 
 ---
 
 ## 🔐 Security Research Scope (Grey Hat)

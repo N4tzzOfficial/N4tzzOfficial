@@ -1,4 +1,7 @@
-# 👋 Hi, I'm N4tzzOfficial ![N4tzzOffc](https://img.shields.io/badge/N4tzzOfficial-darkblue)
+<h1 align='center'><img alt="Baileys logo" src="https://avatars.githubusercontent.com/u/181945053?v=4" height="75"/></h1>
+
+<div align='center'>👋 Hi, I'm N4tzzOfficial !</div>
+#👋 Hi, I'm N4tzzOfficial ![N4tzzOffc](https://img.shields.io/badge/N4tzzOfficial-darkblue)
 
 💻 Full-Stack Developer | 🔐 Cybersecurity | 🤖 AI & Automation Systems
 
@@ -146,9 +149,10 @@ All findings are used for **defensive improvement, detection, and prevention**.
 
 ---
 
-## ⚠️ Ethics & Disclaimer
-All projects and security research are conducted for
-**educational, defensive, analytical, and research purposes only**.
+> [!CAUTION]
+> ## ⚠️ Ethics & Disclaimer
+> All projects and security research are conducted for
+> **educational, defensive, analytical, and research purposes only**.
 
 No tools, techniques, or systems are intended for illegal use.
 I do not support or engage in unauthorized access or attacks

@@ -11,11 +11,9 @@ Building real-world systems with a strong focus on **security, automation, and p
 
 > An independent developer from Indonesia with hands-on experience building
 > secure websites, applications, APIs, automation systems, and mid-level software.
-
 > I also work as a **Grey Hat Security And Reverse Engginering**, focusing on vulnerability research,
 > exploit analysis, and system hardening conducted strictly in
 > **controlled, ethical, and non-production environments**.
-
 > My work emphasizes **real-world implementation** — production systems,
 > security hardening, and applied engineering — rather than tutorial-based
 > or purely theoretical projects.

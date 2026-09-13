@@ -1,3 +1,4 @@
+```yaml
 name: 📊 N4tzzOfficial GitHub Metrics
 
 on:
@@ -19,10 +20,25 @@ jobs:
       contents: write
 
     steps:
-      - name: Generate GitHub Metrics
+      - name: 📊 Generate GitHub Metrics
         uses: lowlighter/metrics@latest
+
         with:
+          # ─────────────────────────────────────
+          # AUTHENTICATION
+          # ─────────────────────────────────────
+
           token: ${{ secrets.METRICS_TOKEN }}
+
+          # ─────────────────────────────────────
+          # OUTPUT
+          # ─────────────────────────────────────
+
+          filename: github-metrics.svg
+          output_action: commit
+
+          committer_branch: main
+          committer_message: "chore(metrics): update GitHub profile metrics"
 
           # ─────────────────────────────────────
           # PROFILE
@@ -31,15 +47,19 @@ jobs:
           user: N4tzzOfficial
           template: classic
 
-          base: >
-            header,
-            activity,
-            community,
-            repositories,
-            metadata
+          base: header, activity, community, repositories, metadata
 
           config_timezone: Asia/Jakarta
           config_display: large
+
+          # ─────────────────────────────────────
+          # REPOSITORY SCOPE
+          # ─────────────────────────────────────
+
+          repositories_affiliations: owner
+
+          repositories_skipped: |
+            N4tzzOfficial
 
           # ─────────────────────────────────────
           # LANGUAGES
@@ -47,19 +67,18 @@ jobs:
 
           plugin_languages: yes
 
-          plugin_languages_ignored: >
-            html,
-            css,
-            scss,
+          plugin_languages_ignored: |
+            html
+            css
+            scss
             less
 
-          plugin_languages_details: >
-            percentage,
-            bytes-size,
+          plugin_languages_details: |
+            percentage
+            bytes-size
             lines
 
           plugin_languages_limit: 8
-
           plugin_languages_threshold: 2%
 
           # ─────────────────────────────────────
@@ -67,7 +86,6 @@ jobs:
           # ─────────────────────────────────────
 
           plugin_isocalendar: yes
-
           plugin_isocalendar_duration: full-year
 
           # ─────────────────────────────────────
@@ -75,7 +93,6 @@ jobs:
           # ─────────────────────────────────────
 
           plugin_stars: yes
-
           plugin_stars_limit: 6
 
           # ─────────────────────────────────────
@@ -83,9 +100,7 @@ jobs:
           # ─────────────────────────────────────
 
           plugin_achievements: yes
-
           plugin_achievements_threshold: A
-
           plugin_achievements_display: compact
 
           # ─────────────────────────────────────
@@ -93,15 +108,14 @@ jobs:
           # ─────────────────────────────────────
 
           plugin_activity: yes
-
           plugin_activity_limit: 8
 
-          plugin_activity_filter: >
-            issue,
-            pr,
-            star,
-            commit,
-            push,
+          plugin_activity_filter: |
+            issue
+            pr
+            star
+            commit
+            push
             release
 
           # ─────────────────────────────────────
@@ -110,60 +124,20 @@ jobs:
 
           plugin_repositories: yes
 
-          plugin_repositories_featured: >
-            NzRouter,
-            N4Kit,
-            N4tzzAI,
+          plugin_repositories_featured: |
+            NzRouter
+            N4Kit
+            N4tzzAI
             n4lyx
-
-          plugin_repositories_skipped: >
-            N4tzzOfficial
 
           plugin_repositories_pinned: yes
 
-          plugin_repositories_affiliations: owner
-
           # ─────────────────────────────────────
-          # CONTRIBUTION HABITS
-          # ─────────────────────────────────────
-
-          plugin_habits: yes
-
-          plugin_habits_days: 14
-
-          plugin_habits_facts: yes
-
-          plugin_habits_charts: yes
-
-          plugin_habits_trim: no
-
-          # ─────────────────────────────────────
-          # FOLLOW-UP
-          # ─────────────────────────────────────
-
-          plugin_followup: yes
-
-          plugin_followup_sections: >
-            repositories
-
-          # ─────────────────────────────────────
-          # COMMIT HISTORY
+          # LINES OF CODE
           # ─────────────────────────────────────
 
           plugin_lines: yes
 
-          plugin_lines_sections: >
+          plugin_lines_sections: |
             repositories
-
-          # ─────────────────────────────────────
-          # OUTPUT
-          # ─────────────────────────────────────
-
-          filename: github-metrics.svg
-
-          output_action: commit
-
-          committer_branch: main
-
-          committer_message: >
-            chore(metrics): update GitHub profile metrics
+```

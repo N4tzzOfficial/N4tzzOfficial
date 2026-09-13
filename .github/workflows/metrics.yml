@@ -1,67 +1,169 @@
-name: 📊 GitHub Metrics
+name: 📊 N4tzzOfficial GitHub Metrics
 
 on:
   schedule:
     - cron: "0 0 * * *"
+
   workflow_dispatch:
+
   push:
-    branches: ["main", "master"]
+    branches:
+      - main
+      - master
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
+
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # User
-          user: n4tzzofficial
+          # ─────────────────────────────────────
+          # PROFILE
+          # ─────────────────────────────────────
+
+          user: N4tzzOfficial
           template: classic
-          base: header, activity, community, repositories, metadata
+
+          base: >
+            header,
+            activity,
+            community,
+            repositories,
+            metadata
+
           config_timezone: Asia/Jakarta
+          config_display: large
 
-          # Languages
+          # ─────────────────────────────────────
+          # LANGUAGES
+          # ─────────────────────────────────────
+
           plugin_languages: yes
-          plugin_languages_ignored: html, css
-          plugin_languages_details: percentage, bytes
 
-          # Isometric commit calendar
+          plugin_languages_ignored: >
+            html,
+            css,
+            scss,
+            less
+
+          plugin_languages_details: >
+            percentage,
+            bytes-size,
+            lines
+
+          plugin_languages_limit: 8
+
+          plugin_languages_threshold: 2%
+
+          # ─────────────────────────────────────
+          # ISOMETRIC CONTRIBUTIONS
+          # ─────────────────────────────────────
+
           plugin_isocalendar: yes
+
           plugin_isocalendar_duration: full-year
 
-          # Stars
-          plugin_stars: yes
-          plugin_stars_limit: 4
+          # ─────────────────────────────────────
+          # STARRED REPOSITORIES
+          # ─────────────────────────────────────
 
-          # Achievements
+          plugin_stars: yes
+
+          plugin_stars_limit: 6
+
+          # ─────────────────────────────────────
+          # ACHIEVEMENTS
+          # ─────────────────────────────────────
+
           plugin_achievements: yes
-          plugin_achievements_threshold: B
+
+          plugin_achievements_threshold: A
+
           plugin_achievements_display: compact
 
-          # Recent activity
+          # ─────────────────────────────────────
+          # RECENT ACTIVITY
+          # ─────────────────────────────────────
+
           plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_filter: issue, pr, star, commit, push
 
-          # Notable contributions
-          plugin_notable: yes
-          plugin_notable_from: organization
+          plugin_activity_limit: 8
 
-          # Followup
-          plugin_followup: yes
-          plugin_followup_sections: repositories
+          plugin_activity_filter: >
+            issue,
+            pr,
+            star,
+            commit,
+            push,
+            release
 
-          # Repositories
+          # ─────────────────────────────────────
+          # REPOSITORIES
+          # ─────────────────────────────────────
+
           plugin_repositories: yes
-          plugin_repositories_featured: NzRouter, N4Kit, N4tzzAI
-          plugin_repositories_skipped: n4tzzofficial
 
-          # Habit
+          plugin_repositories_featured: >
+            NzRouter,
+            N4Kit,
+            N4tzzAI,
+            n4lyx
+
+          plugin_repositories_skipped: >
+            N4tzzOfficial
+
+          plugin_repositories_pinned: yes
+
+          plugin_repositories_affiliations: owner
+
+          # ─────────────────────────────────────
+          # CONTRIBUTION HABITS
+          # ─────────────────────────────────────
+
           plugin_habits: yes
+
           plugin_habits_days: 14
+
           plugin_habits_facts: yes
+
           plugin_habits_charts: yes
+
           plugin_habits_trim: no
+
+          # ─────────────────────────────────────
+          # FOLLOW-UP
+          # ─────────────────────────────────────
+
+          plugin_followup: yes
+
+          plugin_followup_sections: >
+            repositories
+
+          # ─────────────────────────────────────
+          # COMMIT HISTORY
+          # ─────────────────────────────────────
+
+          plugin_lines: yes
+
+          plugin_lines_sections: >
+            repositories
+
+          # ─────────────────────────────────────
+          # OUTPUT
+          # ─────────────────────────────────────
+
+          filename: github-metrics.svg
+
+          output_action: commit
+
+          committer_branch: main
+
+          committer_message: >
+            chore(metrics): update GitHub profile metrics

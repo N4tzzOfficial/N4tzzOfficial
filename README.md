@@ -11,16 +11,16 @@ Building **AI, systems, developer tools & open-source software.**
 <br>
 
 <a href="https://n4tzzofficial.my.id">
-<img src="https://img.shields.io/badge/Website-n4tzzofficial.my.id-111111?style=flat-square&logo=googlechrome&logoColor=white" alt="Website">
+  <img src="https://img.shields.io/badge/Website-n4tzzofficial.my.id-111111?style=flat-square&logo=googlechrome&logoColor=white" alt="Website">
 </a>
 <a href="https://github.com/N4tzzOfficial">
-<img src="https://img.shields.io/badge/GitHub-N4tzzOfficial-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-N4tzzOfficial-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 </a>
 <a href="https://www.npmjs.com/~n4tzzofficial_">
-<img src="https://img.shields.io/badge/NPM-N4tzzofficial_-CB3837?style=flat-square&logo=npm&logoColor=white" alt="NPM">
+  <img src="https://img.shields.io/badge/NPM-N4tzzofficial_-CB3837?style=flat-square&logo=npm&logoColor=white" alt="NPM">
 </a>
 <a href="https://t.me/N4tzzOfficial">
-<img src="https://img.shields.io/badge/Telegram-N4tzzOfficial-229ED9?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
+  <img src="https://img.shields.io/badge/Telegram-N4tzzOfficial-229ED9?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
 </a>
 
 </div>
@@ -31,16 +31,16 @@ Building **AI, systems, developer tools & open-source software.**
 
 **N4tzzOfficial** is an independent developer and the **Founder of N4tzzNetwork**.
 
-I build software across **Artificial Intelligence, backend systems, APIs, automation, developer tools, open source and infrastructure**.
+I build software across **Artificial Intelligence, backend systems, APIs, automation, developer tools, open source, and infrastructure**.
 
 Currently focused on **AI model development and the ZixcAI ecosystem**.
 
 ```text
-AI              ████████████████████  building
-Backend         ████████████████████  active
-Developer Tools ████████████████████  active
-Open Source     ███████████████████░  growing
-Systems         ███████████████████░  building
+AI                 ████████████████████  building
+Backend            ████████████████████  active
+Developer Tools    ████████████████████  active
+Open Source        ███████████████████░  growing
+Systems            ███████████████████░  building
 ```
 
 ---
@@ -49,20 +49,20 @@ Systems         ███████████████████░  bu
 
 **N4tzzNetwork** is the technology ecosystem founded and developed by **N4tzzOfficial**.
 
-It brings together my **AI projects, software, developer tools, APIs, infrastructure, open-source packages and experiments** under one ecosystem.
+It brings together **AI projects, software, developer tools, APIs, infrastructure, open-source packages, and experiments** under one ecosystem.
 
 ```text
                          N4tzzNetwork
                               │
-              ┌───────────────┼───────────────┐
-              │               │               │
-             AI            SOFTWARE         SYSTEMS
-              │               │               │
-           ZixcAI         NzRouter         APIs
-              │               │               │
-           Models        NPM Tools      Infrastructure
-              │               │               │
-              └───────────────┼───────────────┘
+             ┌────────────────┼────────────────┐
+             │                │                │
+            AI             SOFTWARE          SYSTEMS
+             │                │                │
+          ZixcAI          NzRouter           APIs
+             │                │                │
+          AI Models       NPM Tools      Infrastructure
+             │                │                │
+             └────────────────┼────────────────┘
                               │
                        Future Projects
 ```
@@ -78,7 +78,7 @@ It brings together my **AI projects, software, developer tools, APIs, infrastruc
 
 My current main project.
 
-**ZixcAI** is an AI ecosystem being developed under N4tzzNetwork, focused on **AI models, intelligent systems, APIs and supporting infrastructure**.
+**ZixcAI** is an AI ecosystem being developed under N4tzzNetwork, focused on **AI models, intelligent systems, APIs, and supporting infrastructure**.
 
 🌐 **https://zixcai.n4tzzofficial.my.id**
 
@@ -99,7 +99,7 @@ ZixcAI
 
 ### ⚡ NzRouter
 
-An upgraded router project inspired by **9Router**, developed with my own architecture and direction.
+An upgraded router project inspired by **9Router**, developed with its own architecture and direction.
 
 Part of the N4tzzNetwork developer ecosystem and available through **NPM**.
 
@@ -115,13 +115,15 @@ npm install nzrouter
 
 A **WhatsApp Web API library for Node.js** built by N4tzzOfficial.
 
-Designed for developers building WhatsApp applications, bots and automation.
+Designed for developers building **WhatsApp applications, bots, automation, and integrations**.
 
 ```bash
 npm install n4lyx
 ```
 
 → **[View Repository](https://github.com/N4tzzOfficial/n4lyx)**
+
+`Node.js` · `WhatsApp` · `API` · `Open Source`
 
 ---
 
@@ -133,13 +135,16 @@ npm install n4lyx
 
 </p>
 
-**Languages**
+### Languages
+
 `JavaScript` · `Python` · `PHP` · `HTML` · `CSS` · `Bash`
 
-**Backend & Systems**
+### Backend & Systems
+
 `Node.js` · `Linux` · `Docker` · `Cloudflare` · `REST APIs`
 
-**Current interests**
+### Current Interests
+
 `AI` · `LLM` · `AI Models` · `AI Infrastructure` · `Automation` · `Security`
 
 ---
@@ -148,16 +153,24 @@ npm install n4lyx
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=N4tzzOfficial&theme=transparent&hide_border=true" width="75%" alt="N4tzzOfficial GitHub Streak">
+<img
+src="https://streak-stats.demolab.com?user=N4tzzOfficial&theme=transparent&hide_border=true"
+width="75%"
+alt="N4tzzOfficial GitHub Streak"
+
+>
 
 </p>
 
 <p align="center">
-  <img
-    src="./github-metrics.svg"
-    width="100%"
-    alt="N4tzzOfficial GitHub Metrics"
-  >
+
+<img
+src="./github-metrics.svg"
+width="100%"
+alt="N4tzzOfficial GitHub Metrics"
+
+>
+
 </p>
 
 ---

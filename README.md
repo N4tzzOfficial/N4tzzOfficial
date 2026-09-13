@@ -153,9 +153,11 @@ npm install n4lyx
 </p>
 
 <p align="center">
-
-<img src="./.github/workflows/metrics.yml" width="100%" alt="N4tzzOfficial GitHub Metrics">
-
+  <img
+    src="./github-metrics.svg"
+    width="100%"
+    alt="N4tzzOfficial GitHub Metrics"
+  >
 </p>
 
 ---

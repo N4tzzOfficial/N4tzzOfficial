@@ -1,60 +1,62 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/181945053?v=4" width="120" />
+<img src="https://avatars.githubusercontent.com/u/181945053?v=4" width="120" alt="N4tzzOfficial">
 
 # N4tzzOfficial
 
-### Founder of N4tzzNetwork · AI Builder · Software & Systems Developer
+### Founder of N4tzzNetwork · AI Builder · Software Engineer
 
-Building **AI, developer tools, backend systems and open-source technology.**
+Building **AI, systems, developer tools & open-source software.**
 
 <br>
 
-[![Website](https://img.shields.io/badge/Website-n4tzzofficial.my.id-0d1117?style=flat-square\&logo=googlechrome\&logoColor=white)](https://n4tzzofficial.my.id)
-[![GitHub](https://img.shields.io/badge/GitHub-N4tzzOfficial-0d1117?style=flat-square\&logo=github\&logoColor=white)](https://github.com/N4tzzOfficial)
-[![NPM](https://img.shields.io/badge/NPM-N4tzzofficial_-CB3837?style=flat-square\&logo=npm\&logoColor=white)](https://www.npmjs.com/~n4tzzofficial_)
-[![Telegram](https://img.shields.io/badge/Telegram-N4tzzOfficial-229ED9?style=flat-square\&logo=telegram\&logoColor=white)](https://t.me/N4tzzOfficial)
+<a href="https://n4tzzofficial.my.id">
+<img src="https://img.shields.io/badge/Website-n4tzzofficial.my.id-111111?style=flat-square&logo=googlechrome&logoColor=white" alt="Website">
+</a>
+<a href="https://github.com/N4tzzOfficial">
+<img src="https://img.shields.io/badge/GitHub-N4tzzOfficial-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://www.npmjs.com/~n4tzzofficial_">
+<img src="https://img.shields.io/badge/NPM-N4tzzofficial_-CB3837?style=flat-square&logo=npm&logoColor=white" alt="NPM">
+</a>
+<a href="https://t.me/N4tzzOfficial">
+<img src="https://img.shields.io/badge/Telegram-N4tzzOfficial-229ED9?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
+</a>
 
 </div>
 
 ---
 
-## `whoami`
+## `// about`
 
-I'm **N4tzzOfficial**, an independent developer and the **Founder of N4tzzNetwork**.
+**N4tzzOfficial** is an independent developer and the **Founder of N4tzzNetwork**.
 
-I build software, systems and digital products across **AI, backend development, APIs, automation, developer tools and open source**.
+I build software across **Artificial Intelligence, backend systems, APIs, automation, developer tools, open source and infrastructure**.
 
-Currently, my main focus is **AI model development and AI infrastructure**.
+Currently focused on **AI model development and the ZixcAI ecosystem**.
 
 ```text
-Focus
-├── Artificial Intelligence
-├── AI Models & Infrastructure
-├── Backend & APIs
-├── Developer Tools
-├── Open Source
-└── Systems & Automation
+AI              ████████████████████  building
+Backend         ████████████████████  active
+Developer Tools ████████████████████  active
+Open Source     ███████████████████░  growing
+Systems         ███████████████████░  building
 ```
 
 ---
 
-## `N4tzzNetwork`
-
-### What is it?
+## `// N4tzzNetwork`
 
 **N4tzzNetwork** is the technology ecosystem founded and developed by **N4tzzOfficial**.
 
-It serves as the home for my **AI projects, software, developer tools, APIs, infrastructure, experiments and future products**.
-
-Rather than being just a single project, N4tzzNetwork is the umbrella connecting the different things I build.
+It brings together my **AI projects, software, developer tools, APIs, infrastructure, open-source packages and experiments** under one ecosystem.
 
 ```text
                          N4tzzNetwork
                               │
               ┌───────────────┼───────────────┐
               │               │               │
-             AI            Software        Systems
+             AI            SOFTWARE         SYSTEMS
               │               │               │
            ZixcAI         NzRouter         APIs
               │               │               │
@@ -65,19 +67,20 @@ Rather than being just a single project, N4tzzNetwork is the umbrella connecting
                        Future Projects
 ```
 
-**Founded & built by N4tzzOfficial.**
+**Founder:** N4tzzOfficial
+**Focus:** AI · Software · Systems · Open Source
 
 ---
 
-## `currently building`
+## `// currently building`
 
 ### 🧠 ZixcAI
 
-My current main focus.
+My current main project.
 
-**ZixcAI** is an AI project being developed as part of the N4tzzNetwork ecosystem, with the goal of exploring and building **AI models, intelligent systems and supporting infrastructure**.
+**ZixcAI** is an AI ecosystem being developed under N4tzzNetwork, focused on **AI models, intelligent systems, APIs and supporting infrastructure**.
 
-🌐 **[zixcai.n4tzzofficial.my.id](https://zixcai.n4tzzofficial.my.id)**
+🌐 **https://zixcai.n4tzzofficial.my.id**
 
 ```text
 ZixcAI
@@ -92,13 +95,13 @@ ZixcAI
 
 ---
 
-## `featured`
+## `// selected work`
 
 ### ⚡ NzRouter
 
 An upgraded router project inspired by **9Router**, developed with my own architecture and direction.
 
-Built as part of the N4tzzNetwork developer ecosystem and available through **NPM**.
+Part of the N4tzzNetwork developer ecosystem and available through **NPM**.
 
 ```bash
 npm install nzrouter
@@ -110,75 +113,79 @@ npm install nzrouter
 
 ### 📦 n4lyx
 
-A **WhatsApp Web API library for Node.js**, created by N4tzzOfficial.
+A **WhatsApp Web API library for Node.js** built by N4tzzOfficial.
 
-Built for developers creating WhatsApp applications, automation and bots.
+Designed for developers building WhatsApp applications, bots and automation.
 
 ```bash
 npm install n4lyx
 ```
 
-[View n4lyx →](https://github.com/N4tzzOfficial/n4lyx)
+→ **[View Repository](https://github.com/N4tzzOfficial/n4lyx)**
 
 ---
 
-## `stack`
+## `// technology`
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=js,nodejs,python,php,html,css,bash,linux,docker,git,cloudflare" alt="Technology Stack">
+
+</p>
+
+**Languages**
+`JavaScript` · `Python` · `PHP` · `HTML` · `CSS` · `Bash`
+
+**Backend & Systems**
+`Node.js` · `Linux` · `Docker` · `Cloudflare` · `REST APIs`
+
+**Current interests**
+`AI` · `LLM` · `AI Models` · `AI Infrastructure` · `Automation` · `Security`
+
+---
+
+## `// github`
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=N4tzzOfficial&theme=transparent&hide_border=true" width="75%" alt="N4tzzOfficial GitHub Streak">
+
+</p>
+
+<p align="center">
+
+<img src="./github-metrics.svg" width="100%" alt="N4tzzOfficial GitHub Metrics">
+
+</p>
+
+---
+
+## `// ecosystem`
+
+| Project             | What it is                 |     Status    |
+| :------------------ | :------------------------- | :-----------: |
+| 🧠 **ZixcAI**       | AI Models & Infrastructure |   `BUILDING`  |
+| ⚡ **NzRouter**      | Router / Developer Tool    |  `PUBLISHED`  |
+| 📦 **n4lyx**        | WhatsApp Web API           | `OPEN SOURCE` |
+| 🌐 **N4tzzNetwork** | Technology Ecosystem       |    `ACTIVE`   |
+
+---
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,python,php,html,css,bash,linux,docker,git,cloudflare" />
-
-</div>
-
-<br>
-
-**Core:** `JavaScript` · `Node.js` · `Python` · `PHP`
-
-**Systems:** `Linux` · `Docker` · `Cloudflare` · `Git`
-
-**Focus:** `AI` · `LLM` · `Backend` · `APIs` · `Automation` · `Security`
-
----
-
-## `github`
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=N4tzzOfficial&theme=transparent&hide_border=true" width="75%" alt="GitHub Streak" />
-
-<br><br>
-
-<img src="/github-metrics.svg" width="100%" alt="N4tzzOfficial GitHub Metrics" />
-
-</div>
-
----
-
-## `ecosystem`
-
-| Project             | Purpose                      | Status        |
-| ------------------- | ---------------------------- | ------------- |
-| 🧠 **ZixcAI**       | AI / Models / Infrastructure | `Building`    |
-| ⚡ **NzRouter**      | Developer Tool / Router      | `Published`   |
-| 📦 **n4lyx**        | WhatsApp Web API             | `Open Source` |
-| 🌐 **N4tzzNetwork** | Technology Ecosystem         | `Active`      |
-
----
-
-<div align="center">
-
-## N4tzzNetwork
+### N4tzzNetwork
 
 **AI · Software · Systems · Open Source**
 
-`Build → Break → Learn → Improve → Ship`
+`Build. Break. Learn. Improve. Ship.`
 
 <br>
 
-[🌐 Website](https://n4tzzofficial.my.id) ·
-[🐙 GitHub](https://github.com/N4tzzOfficial) ·
-[📦 NPM](https://www.npmjs.com/~n4tzzofficial_) ·
-[✈️ Telegram](https://t.me/N4tzzOfficial)
+<a href="https://n4tzzofficial.my.id">Website</a>
+ ·  <a href="https://github.com/N4tzzOfficial">GitHub</a>
+ ·  <a href="https://www.npmjs.com/~n4tzzofficial_">NPM</a>
+ ·  <a href="https://linkedin.com/in/n4tzzofficial">LinkedIn</a>
+ ·  <a href="https://t.me/N4tzzOfficial">Telegram</a>
 
 <br><br>
 
